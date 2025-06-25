@@ -1,18 +1,16 @@
-# 📦 Welcome to the Bioimage Data Management Training Hub
+#  Welcome to the Bioimage Data Management Training Hub
 
 Welcome! This repository is for gathering and sharing all the training materials (webinars, presentations, course materials) that are part of the Data Stewardship Training Programme.
-## 🧭 Quick Navigation
+## Quick Navigation
 
-- [Start Here](#start-here)
+- [Project Overview](#project-overview)
 - [List of existing training resources](#list-of-existing-training-resources)
 - [Downloadable Materials](#downloadable-materials)
-- [Partners and Acknowledgments](#partners-and-acknowledgments)
+- [Partners](#partners)
 
 ---
 
-## 🏁 Start Here
-
-**Project Overview**
+## Project Overview
 
 Working with biological images can pose significant challenges requiring research technical professionals (RTPs) with appropriate technical expertise. 
 This project aims to address these by working to build image data stewardship skills, role recognition and career pathways within the UK community.
@@ -26,14 +24,14 @@ This is where you will find all of the materials created and/or collected as par
 ---
 
 
-## 🔗 List of existing training resources
+## List of existing training resources
 
 - [Existing Training Materials](https://www./)
 
 
 ---
 
-## ⬇️ Downloadable Materials
+## Downloadable Materials
 
 - [Imaging needs survey report](./downloads/survey-report.pdf)
 - [MMC2025 poster](./downloads/mmc2025-poster.pdf)
@@ -41,11 +39,11 @@ This is where you will find all of the materials created and/or collected as par
 
 ---
 
-## 🤝 Partners and Acknowledgments
+## Partners
 
 The partners in this project:
 
-- [BioImage Archive](#)
-- [Image Data Resource](#)
-- [Royal Microscopy Society] (#)
-- [BioImagingUK] (#)
+- [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/)
+- [Image Data Resource](https://idr.openmicroscopy.org)
+- [Royal Microscopy Society](https://www.rms.org.uk)
+- [BioImagingUK](https://www.rms.org.uk/community/networks-affiliates/bioimaginguk-network.html)
