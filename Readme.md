@@ -4,7 +4,7 @@ Welcome! This repository is for gathering and sharing all the training materials
 ## Quick Navigation
 
 - [Project Overview](#project-overview)
-- [List of existing training resources](#list-of-existing-training-resources)
+- [List of existing training resources](#existing-training-resources)
 - [Downloadable Materials](#downloadable-materials)
 - [Partners](#partners)
 
@@ -26,7 +26,7 @@ This is where you will find all of the materials created and/or collected as par
 
 ## Existing Training Resources
 
-- [List of Existing Training Materials](./downloadable-materials/existing-training-materials)
+- [List of Existing Training Materials](./Downloadable-Materials/existing-training-materials)
 
 
 ---
