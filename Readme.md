@@ -69,4 +69,4 @@ The **institution partners** in this project:
 
 ## BioImaging Data Management Helpdesk
 
-[datahelp_bioimaginguk@gmail.com](*)
+datahelp_bioimaginguk@gmail.com
