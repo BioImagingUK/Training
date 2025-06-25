@@ -26,7 +26,7 @@ This is where you will find all of the materials created and/or collected as par
 
 ## Existing Training Resources
 
-- [List of Existing Training Materials](./downloads/existing-training-materials)
+- [List of Existing Training Materials](./downloadable-materials/existing-training-materials)
 
 
 ---
