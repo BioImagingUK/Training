@@ -24,7 +24,7 @@ This is where you will find all of the materials created and/or collected as par
 ---
 
 
-## Existing training resources
+## Existing Training Resources
 
 - [List of Existing Training Materials](https://github.com/BioImagingUK/Training/blob/main/Existing%20Training%20Materials/Existing%20training%20materials.xlsx)
 
