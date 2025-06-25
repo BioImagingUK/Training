@@ -24,9 +24,9 @@ This is where you will find all of the materials created and/or collected as par
 ---
 
 
-## List of existing training resources
+## Existing training resources
 
-- [Existing Training Materials](https://www./)
+- [List of Existing Training Materials](Existing Training Materials/Existing training materials.xlsx)
 
 
 ---
