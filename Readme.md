@@ -6,7 +6,7 @@ Welcome! This repository is for gathering and sharing all the training materials
 - [Project Overview](#project-overview)
 - [List of existing training resources](#existing-training-resources)
 - [Downloadable Materials](#downloadable-materials)
-- [Core Team & Institution Partners](#core-team-&-institution-partners)
+- [Core Team & Institution Partners](#core-team-institution-partners)
 - [BioImaging Data Management Helpdesk](#bioimaging-data-management-helpdesk)
 
 ---
@@ -46,27 +46,27 @@ This is where you will find all of the materials created and/or collected as par
 The **Core Team** in this project:
 
 - [Bioimage Archive (EMBL-EBI)](*)
-- [King's College London] (*)
-- [University of Dundee] (*)
+- [King's College London](*)
+- [University of Dundee](*)
 
 The **institution partners** in this project:
-- [Birminghan University]
-- [Bristol University]
-- [Cardiff University]
-- [Edinburgh University]
-- [Exeter University]
-- [Francis Crick Institute]
-- [King's College London]
-- [Liverpool University]
-- [Liverpool University]
-- [Newcastle University]
-- [Nottingham University]
-- [Queen's University Belfast]
-- [Royal Microscopy Society]
-- [Software Sustainability Institute]
-- [LMB Cambridge]
-- [Strathclyde University]
+- [Birminghan University](*)
+- [Bristol University](*)
+- [Cardiff University](*)
+- [Edinburgh University](*)
+- [Exeter University](*)
+- [Francis Crick Institute](*)
+- [King's College London](*)
+- [Liverpool University](*)
+- [Liverpool University](*)
+- [Newcastle University](*)
+- [Nottingham University](*)
+- [Queen's University Belfast](*)
+- [Royal Microscopy Society](*)
+- [Software Sustainability Institute](*)
+- [LMB Cambridge](*)
+- [Strathclyde University](*)
 
 ## BioImaging Data Management Helpdesk
 
-datahelp_bioimaginguk@gmail.com
+[datahelp_bioimaginguk@gmail.com](*)
