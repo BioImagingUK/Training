@@ -34,7 +34,7 @@ This is where you will find all of the materials created and/or collected as par
 ## Downloadable Materials
 
 - [Imaging needs survey report](./downloads/survey-report.pdf)
-- [MMC2025 poster](./downloads/mmc2025-poster.pdf)
+- [MMC2025 poster](https://github.com/BioImagingUK/Training/blob/main/Downloadable%20Materials/MMC2025.pdf)
 
 
 ---
