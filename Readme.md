@@ -27,7 +27,7 @@ This is where you will find all of the materials created and/or collected as par
 
 ## Existing Training Resources
 
-- [List of Existing Training Materials](https://github.com/BioImagingUK/Training/blob/main/Downloadable%20Materials/Existing%20training%20materials.pdf)
+- [List of Existing Training Materials](/Downloadable%20Materials/table_training_materials.md)
 
 
 ---
@@ -36,7 +36,7 @@ This is where you will find all of the materials created and/or collected as par
 
 - [Imaging data  management needs survey report](/Downloadable%20Materials/Survey_report_next_steps.pdf)
 - [MMC2025 poster](/Downloadable%20Materials/MMC2025.pdf)
-- [Existing training materials](/Downloadable%20Materials/Existing%20training%20materials.pdf)
+- [Existing training materials](/Downloadable%20Materials/table_training_materials.md)
 
 
 ---
