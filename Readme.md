@@ -34,7 +34,7 @@ This is where you will find all of the materials created and/or collected as par
 
 ## Downloadable Materials
 
-- [Imaging data  management needs survey report](./downloads/survey-report.pdf)
+- [Imaging data  management needs survey report](https://github.com/BioImagingUK/Training/blob/main/Downloadable%20Materials/Survey_report_next_steps.md)
 - [MMC2025 poster](https://github.com/BioImagingUK/Training/blob/main/Downloadable%20Materials/MMC2025.pdf)
 - [Existing training materials](https://github.com/BioImagingUK/Training/blob/main/Downloadable%20Materials/Existing%20training%20materials.pdf)
 
