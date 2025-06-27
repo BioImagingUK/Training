@@ -50,14 +50,13 @@ The **Core Team** in this project:
 - University of Dundee
 
 The **institution partners** in this project:
-- Birminghan University
+- Birmingham University
 - Bristol University
 - Cardiff University
 - Edinburgh University
 - Exeter University
 - Francis Crick Institute
 - King's College London
-- Liverpool University
 - Liverpool University
 - Newcastle University
 - Nottingham University
