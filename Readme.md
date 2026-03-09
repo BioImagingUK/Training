@@ -37,6 +37,7 @@ This is where you will find all of the materials created and/or collected as par
 - [Imaging data  management needs survey report](/DownloadableMaterials/Survey_report_next_steps.pdf)
 - [MMC2025 poster](/DownloadableMaterials/MMC2025.pdf)
 - [Existing training materials](/DownloadableMaterials/table_training_materials.md)
+- [Liverpool_workshop_slides](/DownloadableMaterials/Liverpool_workshop_slides.pdf)
 
 
 ---
