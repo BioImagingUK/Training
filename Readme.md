@@ -38,6 +38,8 @@ This is where you will find all of the materials created and/or collected as par
 - [MMC2025 poster](/DownloadableMaterials/MMC2025.pdf)
 - [Existing training materials](/DownloadableMaterials/table_training_materials.md)
 - [Liverpool_workshop_slides](/DownloadableMaterials/Liverpool_workshop_slides.pdf)
+- [Cambridge_workshop_slides](/DownloadableMaterials/Cambridge_workshop_slides.pdf)
+- [London_workshop_slides](/DownloadableMaterials/London_workshop_slides.pdf)
 
 
 ---
