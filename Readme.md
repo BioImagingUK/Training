@@ -41,6 +41,7 @@ This is where you will find all of the materials created and/or collected as par
 - [Cambridge_workshop_slides](/DownloadableMaterials/Cambridge_workshop_slides.pdf)
 - [London_workshop_slides](/DownloadableMaterials/London_workshop_slides.pdf)
 - [Bristol_workshop_slides](/DownloadableMaterials/Bristol_workshop_slides.pdf)
+- [Glasgow_workshop_slides](/DownloadableMaterials/Glasgow_workshop_slides.pdf)
 
 
 ---
